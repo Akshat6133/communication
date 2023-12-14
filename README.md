@@ -1,6 +1,6 @@
 # communication
 
-##part 1
+#part 1
 
 1. Deadline on or before Thursday 23-11-2023 (No late submission allowed)
 2. Generate a binary stream for 20 symbols for 4-PAM modulation
@@ -25,7 +25,7 @@ grid on
 8. Choose the appropriate matched filter for 5 and 6
 9. Assume perfect synchronization at the receiver and plot the constellation diagram for both 5&6 with matched filter mentioned in 8.
 
-##part 2 
+#part 2 
 
 This is simple extension of part 1 of baseband communication 
 
