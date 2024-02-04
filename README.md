@@ -2,14 +2,12 @@
 
 #part 1
 
-1. Deadline on or before Thursday 23-11-2023 (No late submission allowed)
-2. Generate a binary stream for 20 symbols for 4-PAM modulation
-3. Bit rate of 20Mbps
-4. sps 8 (Sample per symbol)
-5. Plot the transmit waveform for square pulse
-6. Plot the transmit waveform for RRC pulse with beta=0.25
-
-7. Plot the spectrum of the transmitted signal using FFT function of matlab/Python
+1. Generate a binary stream for 20 symbols for 4-PAM modulation
+2. Bit rate of 20Mbps
+3. sps 8 (Sample per symbol)
+4. Plot the transmit waveform for square pulse
+5. Plot the transmit waveform for RRC pulse with beta=0.25
+6. Plot the spectrum of the transmitted signal using FFT function of matlab/Python
 
 Hint for plotting spectrum: R=20 Mbps, which implies 10*10^6 symbols per second (2 bits per symbol for 4-PAM). Samples per symbol (sps) is 8. Thus the sampling rate is Fs=8*10*10^6.  Thus to plot FFT assume Fs=80MHz. Let vector xm is the samples of modulated signal, ie, 8*20=160 samples.
 
