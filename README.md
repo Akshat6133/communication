@@ -20,8 +20,8 @@ xlabel('f in MHz')
 ylabel('PSD in dB')
 grid on
 
-8. Choose the appropriate matched filter for 5 and 6
-9. Assume perfect synchronization at the receiver and plot the constellation diagram for both 5&6 with matched filter mentioned in 8.
+7. Choose the appropriate matched filter for 5 and 6
+8. Assume perfect synchronization at the receiver and plot the constellation diagram for both 5&6 with matched filter mentioned in 8.
 
 #part 2 
 
